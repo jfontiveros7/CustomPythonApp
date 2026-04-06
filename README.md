@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Python Application
 
 A simple Flask web application with command-line tool, using clean project structure.
@@ -97,3 +98,6 @@ You can test the routes by visiting:
 - http://127.0.0.1:5000/health (health check)
 
 The CLI tool includes comprehensive error handling for missing files and I/O errors.
+=======
+# CustomPythonApp
+>>>>>>> 26b6f70e2c3311c40e1dbc638dbd3b9c27fd3675
